@@ -1,3 +1,6 @@
 [submodule "PhenixiOSSDK"]
 	path = PhenixiOSSDK
 	url = /Users/thanhle/TMP/testgit/PhenixiOSSDK
+[submodule "PhenixAndroidSDK"]
+	path = PhenixAndroidSDK
+	url = /Users/thanhle/TMP/testgit/PhenixAndroidSDK
