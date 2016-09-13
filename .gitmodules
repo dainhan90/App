@@ -1,6 +1,6 @@
 [submodule "PhenixiOSSDK"]
 	path = PhenixiOSSDK
-	url = /Users/thanhle/TMP/testgit/PhenixiOSSDK
+url=git@github.com:sinbadflyce/PhenixiOSSDK.git
 [submodule "PhenixAndroidSDK"]
 	path = PhenixAndroidSDK
 	url = /Users/thanhle/TMP/testgit/PhenixAndroidSDK
